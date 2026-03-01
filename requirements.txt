@@ -1,0 +1,8 @@
+numpy
+matplotlib
+opencv-python
+opencv-python-headless
+pydicom
+scikit-image
+pillow
+kagglehub[pandas-datasets]
